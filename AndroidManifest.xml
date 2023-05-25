@@ -12,6 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
+        aws_access_key_id = AKIAWY56YWJJV54SVOEI
+        aws_secret_access_key = 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
         >
         <activity android:name=".MainActivity">
             <intent-filter>
